@@ -1,7 +1,13 @@
-BlockChain Simple Program
+BlockChain Program
 
-Here in This program we create a blockchain bycycle for Alice. After a while she gets bored of the cycle and send it to Bob.
+This file contains bigchaindb and blockchain program.
 
-The keys of the app id and app key can be found by making an account in ipdb.
+The Functions included as of now are
+1.Single owner Create
+2.Single Owner Sell
+3.Single Owner Loan
+4.Multi Owner Create
+5.Multi Owner Sell
 
-more changes to come soon
+Coming in Next commit
+1.MultiUser Loan
